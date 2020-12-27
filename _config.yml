@@ -3,30 +3,31 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: r0n1n
+title: Open Source Contributor
+email: gitr0n1n@protonmail.com
+website: www.github.com/gitr0n1n
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: longsats
+github_username:  gitr0n1n
+discord_username: r0n1n
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: jekyll
+# linkedin_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title: About r0n1n
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's r0n1n and I'm an open source contributor. As well as contributing to open srouce projects I also have experience in accounting and finance. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>GAAP Accounting</mark> and <mark>Financial Management</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +41,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in cryptocurrency and fintech software some of my other interests and hobbies are:
+   - Regneratice Agriculture
+   - Algorithmic Trading Systems
+   - Mountain Sports
+   - Cryptocurrency Exchange Software
 
 # Footer
 footer_show_references: true
